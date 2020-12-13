@@ -170,6 +170,10 @@ async def process_random_movie_button(message: types.Message) -> None:
                                                          "fe4c44c00aa0228ce/scale_1200",
         "Это я по алгосам отл получил, щас я дома уже.": "https://s0.rbk.ru/v6_top_pics/"
                                                          "media/img/8/87/754567222734878.jpg",
+        "Это я по алгосам отл получил, щас я дома уже.": "https://s0.rbk.ru/v6_top_pics/"
+                                                         "media/img/8/87/754567222734878.jpg",
+        "Это я по алгосам отл получил, щас я дома уже.": "https://s0.rbk.ru/v6_top_pics/"
+                                                         "media/img/8/87/754567222734878.jpg",
         "Это я миллиардером был, щас я дома уже.": "https://lh3.googleusercontent.com/proxy/"
                                                   "bViVwAv60qATjqRU5B-U_XmDtiw2GYLLYWGx0M9PbomE8sA_"
                                                   "0C4p7yw-Yt62DSPg0sqEzPjLEUmOO3fyXiAzDKfEMJMo3s4",
